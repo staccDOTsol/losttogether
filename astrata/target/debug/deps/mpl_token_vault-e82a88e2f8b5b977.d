@@ -1,0 +1,11 @@
+/workspace/xnft-template-stacc/strata/target/debug/deps/mpl_token_vault-e82a88e2f8b5b977.rmeta: /workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/mpl-token-vault-0.1.0/src/lib.rs /workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/mpl-token-vault-0.1.0/src/entrypoint.rs /workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/mpl-token-vault-0.1.0/src/error.rs /workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/mpl-token-vault-0.1.0/src/instruction.rs /workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/mpl-token-vault-0.1.0/src/processor.rs /workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/mpl-token-vault-0.1.0/src/state.rs /workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/mpl-token-vault-0.1.0/src/utils.rs
+
+/workspace/xnft-template-stacc/strata/target/debug/deps/mpl_token_vault-e82a88e2f8b5b977.d: /workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/mpl-token-vault-0.1.0/src/lib.rs /workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/mpl-token-vault-0.1.0/src/entrypoint.rs /workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/mpl-token-vault-0.1.0/src/error.rs /workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/mpl-token-vault-0.1.0/src/instruction.rs /workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/mpl-token-vault-0.1.0/src/processor.rs /workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/mpl-token-vault-0.1.0/src/state.rs /workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/mpl-token-vault-0.1.0/src/utils.rs
+
+/workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/mpl-token-vault-0.1.0/src/lib.rs:
+/workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/mpl-token-vault-0.1.0/src/entrypoint.rs:
+/workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/mpl-token-vault-0.1.0/src/error.rs:
+/workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/mpl-token-vault-0.1.0/src/instruction.rs:
+/workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/mpl-token-vault-0.1.0/src/processor.rs:
+/workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/mpl-token-vault-0.1.0/src/state.rs:
+/workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/mpl-token-vault-0.1.0/src/utils.rs:

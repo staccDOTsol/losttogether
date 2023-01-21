@@ -1,0 +1,14 @@
+/workspace/xnft-template-stacc/strata/target/debug/deps/heck-9d22512e20e50be9.rmeta: /workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/heck-0.3.3/src/lib.rs /workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/heck-0.3.3/src/camel.rs /workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/heck-0.3.3/src/kebab.rs /workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/heck-0.3.3/src/mixed.rs /workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/heck-0.3.3/src/shouty_kebab.rs /workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/heck-0.3.3/src/shouty_snake.rs /workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/heck-0.3.3/src/snake.rs /workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/heck-0.3.3/src/title.rs
+
+/workspace/xnft-template-stacc/strata/target/debug/deps/libheck-9d22512e20e50be9.rlib: /workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/heck-0.3.3/src/lib.rs /workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/heck-0.3.3/src/camel.rs /workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/heck-0.3.3/src/kebab.rs /workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/heck-0.3.3/src/mixed.rs /workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/heck-0.3.3/src/shouty_kebab.rs /workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/heck-0.3.3/src/shouty_snake.rs /workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/heck-0.3.3/src/snake.rs /workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/heck-0.3.3/src/title.rs
+
+/workspace/xnft-template-stacc/strata/target/debug/deps/heck-9d22512e20e50be9.d: /workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/heck-0.3.3/src/lib.rs /workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/heck-0.3.3/src/camel.rs /workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/heck-0.3.3/src/kebab.rs /workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/heck-0.3.3/src/mixed.rs /workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/heck-0.3.3/src/shouty_kebab.rs /workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/heck-0.3.3/src/shouty_snake.rs /workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/heck-0.3.3/src/snake.rs /workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/heck-0.3.3/src/title.rs
+
+/workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/heck-0.3.3/src/lib.rs:
+/workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/heck-0.3.3/src/camel.rs:
+/workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/heck-0.3.3/src/kebab.rs:
+/workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/heck-0.3.3/src/mixed.rs:
+/workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/heck-0.3.3/src/shouty_kebab.rs:
+/workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/heck-0.3.3/src/shouty_snake.rs:
+/workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/heck-0.3.3/src/snake.rs:
+/workspace/.cargo/registry/src/github.com-1ecc6299db9ec823/heck-0.3.3/src/title.rs:
