@@ -1,0 +1,9 @@
+rm -rf ./node_modules/@solana*/**/esm
+ rm -rf ./node_modules/@strata*/**/esm
+ rm -rf ./node_m*odules/wallet-adapter-react-xnft/**/esm
+ rm -rf ./node_modules/strata-foundation-react-xnft/**/esm
+ rm -rf ./node_modules/@strata*/**/esm
+ rm -rf ./node_m*odules/wallet-adapter-react-xnft/**/esm
+ rm -rf ./node_modules/strata-foundation-react-xnft/**/esm
+ rm -rf ./node_modules/wallet*/**/esm
+ rm -rf ./node_modules/@wallet*/**/esm

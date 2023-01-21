@@ -27,12 +27,17 @@ module.exports = async function (env, argv) {
     (plugin) => ["DefinePlugin", "CleanWebpackPlugin"].includes(plugin.constructor.name)
   )
 
+
   config.plugins.push(
     new InlineJSPlugin({
       template: "template.html",
       filename: "index.html"
     })
   );
+  config.module.rules.push({
+      test: /\.mjs$/,
+      type: 'javascript/auto'
+});
 
 
   // this is brittle but works for now.
